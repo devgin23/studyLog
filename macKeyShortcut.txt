@@ -1,0 +1,29 @@
+IntelliJ
+Command + E = 최근 연 파일 목록
+shift+shift = All 검색
+command + O = classes 검색
+command + shift + O = file 검색
+command + -> or <- = end or home
+command + fn + -> or <- = 맨 아래 or 맨 위
+command + d = 한 줄 복사 및 생성
+capslock + d = 한 줄 삭제
+command + shift + 위,아래 = 줄 이동
+command + 1 = project explorer 창 선택
+command + 4 = run 창 선택
+command + option + v = 변수로 할당
+command + [,] = 이전, 다음 파일로 가기.
+source 상에서 command + n = Generate
+shift + esc = 창 숨기기.
+	응용) command + 4, shift + esc = run창 숨기기
+command + option + v = 변수로 정의하기
+command + option + m = 메서드로 정의하기
+command + option + n = 인라인 (펼쳐져있는 변수들 합쳐주기)
+command + option + p = 파라미터로 정의하기.
+command + shift + t = 이름이 비슷한 test와 class파일 왔다갔다하기.
+command + option + M = 메서드로 정의하기(extract Method)
+
+
+
+BBEdit
+Command + option + [,] = 문서 간 이동
+control + 위,아래 = 줄 이동
