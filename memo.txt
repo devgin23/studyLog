@@ -3,6 +3,10 @@ jpashop github 정보
 token : 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
 token for intelliJ = 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
 
+2023.06.01
+new token github
+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
+
 
 ** iterm2 자동완성 설치하기.
 
