@@ -21,7 +21,7 @@ command + option + n = 인라인 (펼쳐져있는 변수들 합쳐주기)
 command + option + p = 파라미터로 정의하기.
 command + shift + t = 이름이 비슷한 test와 class파일 왔다갔다하기.
 command + option + M = 메서드로 정의하기(extract Method)
-
+shift + f6 = 같은 변수 한방에 바꾸기.
 
 
 BBEdit

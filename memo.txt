@@ -1,0 +1,11 @@
+github 리포지토리를 만들었다.
+jpashop github 정보
+token : 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
+token for intelliJ = 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
+
+
+** iterm2 자동완성 설치하기.
+
+** appcleaner 설치해서 앱삭제하기.
+
+** h2DataBase db파일 만드는 법. (파일로 접근 하는 법)
