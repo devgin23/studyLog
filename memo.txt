@@ -5,7 +5,8 @@ token for intelliJ = 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
 
 2023.06.01
 new token github
-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
+devgin23
+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
 
 
 ** iterm2 자동완성 설치하기.
